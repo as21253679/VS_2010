@@ -1,0 +1,24 @@
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\bin\Debug\comport 傳值.exe
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\bin\Debug\comport 傳值.pdb
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport_傳值.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport_傳值.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport 傳值.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport 傳值.exe
+c:\users\sa\documents\visual studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport 傳值.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\comport 傳值\comport 傳值\obj\x86\Debug\comport 傳值.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport 傳值.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport 傳值.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\bin\Debug\comport 傳值.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\bin\Debug\comport 傳值.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport 傳值.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport_傳值.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport_傳值.Properties.Resources.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\自動掃描comport\comport 傳值\obj\x86\Debug\comport 傳值.csproj.GenerateResource.Cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport 傳值.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport 傳值.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\bin\Debug\comport 傳值.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\bin\Debug\comport 傳值.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport 傳值.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport_傳值.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport_傳值.Properties.Resources.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\鏡頭\comport 傳值\obj\x86\Debug\comport 傳值.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\bin\Debug\模擬鍵盤(彎曲九軸).exe
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\bin\Debug\模擬鍵盤(彎曲九軸).pdb
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\obj\x86\Debug\模擬鍵盤_彎曲九軸_.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\obj\x86\Debug\模擬鍵盤_彎曲九軸_.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\obj\x86\Debug\模擬鍵盤(彎曲九軸).csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\obj\x86\Debug\模擬鍵盤(彎曲九軸).exe
+c:\users\sa\documents\visual studio 2010\Projects\模擬鍵盤(彎曲九軸)\模擬鍵盤(彎曲九軸)\obj\x86\Debug\模擬鍵盤(彎曲九軸).pdb

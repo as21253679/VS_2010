@@ -1,0 +1,16 @@
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\bin\Debug\波形圖.exe
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\bin\Debug\波形圖.pdb
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.exe
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.pdb
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\bin\Debug\波形圖.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\bin\Debug\波形圖.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\bin\Debug\互動衣.exe
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\bin\Debug\互動衣.pdb
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.exe
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.pdb
+c:\users\sa\documents\visual studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\互動衣\互動衣\obj\x86\Debug\互動衣.csprojResolveAssemblyReference.cache

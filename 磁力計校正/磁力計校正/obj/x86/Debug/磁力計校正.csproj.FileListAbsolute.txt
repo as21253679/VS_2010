@@ -1,0 +1,8 @@
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\bin\Debug\磁力計校正.exe
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\bin\Debug\磁力計校正.pdb
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.exe
+c:\users\sa\documents\visual studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\磁力計校正\磁力計校正\obj\x86\Debug\磁力計校正.csprojResolveAssemblyReference.cache

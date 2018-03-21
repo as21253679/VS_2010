@@ -1,0 +1,7 @@
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\bin\Debug\CDC註冊檔.exe
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\bin\Debug\CDC註冊檔.pdb
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\obj\x86\Debug\CDC註冊檔.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\obj\x86\Debug\CDC註冊檔.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\obj\x86\Debug\CDC註冊檔.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\obj\x86\Debug\CDC註冊檔.exe
+c:\users\sa\documents\visual studio 2010\Projects\CDC註冊檔\CDC註冊檔\obj\x86\Debug\CDC註冊檔.pdb

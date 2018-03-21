@@ -1,0 +1,8 @@
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\bin\Debug\同時讀檔_A.exe
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\bin\Debug\同時讀檔_A.pdb
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.exe
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\同時讀檔_A\同時讀檔_A\obj\x86\Debug\同時讀檔_A.csprojResolveAssemblyReference.cache

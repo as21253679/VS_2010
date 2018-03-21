@@ -1,0 +1,7 @@
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\bin\Debug\程式方塊.exe
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\bin\Debug\程式方塊.pdb
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\obj\x86\Debug\程式方塊.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\obj\x86\Debug\程式方塊.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\obj\x86\Debug\程式方塊.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\obj\x86\Debug\程式方塊.exe
+c:\users\sa\documents\visual studio 2010\Projects\程式方塊\程式方塊\obj\x86\Debug\程式方塊.pdb

@@ -1,0 +1,8 @@
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\bin\Debug\CDC.exe
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\bin\Debug\CDC.pdb
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.exe
+c:\users\sa\documents\visual studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\CDC\CDC\obj\x86\Debug\CDC.csprojResolveAssemblyReference.cache

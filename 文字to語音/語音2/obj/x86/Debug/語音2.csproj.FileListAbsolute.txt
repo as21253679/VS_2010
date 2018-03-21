@@ -1,0 +1,13 @@
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\bin\Debug\語音2.exe
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\bin\Debug\語音2.pdb
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\Interop.SpeechLib.dll
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.csproj.ResolveComReference.cache
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.exe
+c:\users\sa\documents\visual studio 2010\Projects\語音2\語音2\obj\x86\Debug\語音2.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\文字to語音\語音2\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\SA\Documents\Visual Studio 2010\Projects\文字to語音\語音2\obj\x86\Debug\語音2.csproj.ResolveComReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\文字to語音\語音2\obj\x86\Debug\語音2.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\文字to語音\語音2\obj\x86\Debug\語音2.pdb
