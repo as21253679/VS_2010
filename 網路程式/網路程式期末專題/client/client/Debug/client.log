@@ -1,0 +1,33 @@
+﻿已經開始建置於 2016/1/23 下午 05:36:12。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\bet\Desktop\網路程式期末專題\client\client\client.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\client.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt client.cpp
+         client.cpp
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 請參閱 'scanf' 的宣告
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 請參閱 'scanf' 的宣告
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 請參閱 'scanf' 的宣告
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 請參閱 'sprintf' 的宣告
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(200): warning C4101: 'len' : 未參考的區域變數
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(216): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 請參閱 'sprintf' 的宣告
+     1>c:\users\bet\desktop\網路程式期末專題\client\client\client.cpp(212): warning C4101: 'len' : 未參考的區域變數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.exe" /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.lib" /MACHINE:X86 Debug\client.obj
+         LINK : 最後的累加連結找不到或未建置 C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.exe，正在執行完整連結
+         client.vcxproj -> C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\bet\Desktop\網路程式期末專題\client\Debug\client.exe;#1" /manifest Debug\client.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\client.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\client.lastbuildstate"。
+     1>專案 "C:\Users\bet\Desktop\網路程式期末專題\client\client\client.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.88
